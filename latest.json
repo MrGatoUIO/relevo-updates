@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "BD en la nube (Neon): la app funciona desde cualquier red sin VPN. Adjuntos via tunel del mini-server con discovery automatico. Updates por GitHub.",
-  "pub_date": "2026-09-26T00:00:50Z",
+  "version": "0.2.6",
+  "notes": "Modulos operativos (Solicitudes, Requerimientos, Reuniones, Distribuidores, Configuracion). Evidencia en tickets con adjuntos y Ctrl+V. Sincronizacion de Reuniones con Asana. Version real en menu.",
+  "pub_date": "2026-09-26T01:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1lpRkh1SHl3RnRtVmpNZ1U3eGRLaVo2OTNocXNpVmpZTDRSVVpQbzdlcGRQWlZZclVPa1h0YTlzME1lS3psclFhUkdqTzFmOCtoTDQvN0R1ZWxFTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzgwODE3CWZpbGU6UkVMRVZPLUdTQ18wLjIuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjUKRlVkWG04NUU1eUtsVXNtUCtlVFNISGtiNm1Xd0lWTmFXT1UwS0ZxUlRGK1h6RTJNMmloNit6RFlZRWlwOWxWcjNPeTVVaG9Jb1p2SW9KUk0yL1FURGc9PQo=",
-      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.2.5/RELEVO-GSC_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1hPaVNaeDNEN3NtbmtPWUE2a3ZHQjlQQU5ITERXUVc3TkVEUXAzTXVaQ2NvWU15OHQ4dFBpU2xrby9WOXhVc09KNlhwZVRlZnowNENTSFFYQnltTndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzg1NDczCWZpbGU6UkVMRVZPLUdTQ18wLjIuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjYKc3pjaVgwNDF3VDhSMGh5WGNYYkZLaEJhWFFpblZrUFVoVFFSQ2t2cDR1aFVmRG93ZGs3MUpQOEViTzAwMGFqRnlkaml0SU9JTG5SVEdoRmxpK29SQnc9PQo=",
+      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.2.6/RELEVO-GSC_0.2.6_x64-setup.exe"
     }
   }
 }
