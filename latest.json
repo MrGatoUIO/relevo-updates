@@ -1,11 +1,1 @@
-{
-  "version": "0.2.7",
-  "notes": "Cambiar contrasena. Recordar sesion 30 dias. Usuario Asana + aviso reuniones 10 min. Auto-sync Asana.",
-  "pub_date": "2026-09-26T02:10:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1RtYUd4NGFlUEhTT3dRTEs5SzBRWjdFY0t5UTEvTzhHUGJlZWxoMERBcVljYnMvd2pQMGJrbFcyNHNWNEp4M09LYVYrWTRXMWxMYTcxZEdxNVdhNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzg2NDIzCWZpbGU6UkVMRVZPLUdTQ18wLjIuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjcKZm1jWGZmcmhad3g1M1ZkZzdiR21FWWprSEpaY2FPcDE2Yjk5dWxNT01ZQTdWTjlKVEZubkEvQldIeGxpaWJXZkhxVldkREFET05kWEtTQXY1VjBDQ0E9PQo=",
-      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.2.7/RELEVO-GSC_0.2.7_x64-setup.exe"
-    }
-  }
-}
+{"version": "v0.2.8", "notes": "Agenda visual de Reuniones, filtros por persona/fecha/estado, link a Asana, completar sincroniza con Asana, chat muestra quien leyo cada mensaje.", "pub_date": "2026-09-27T02:29:28Z", "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1lmUURBVVlxem85UGlEUXg3dUtWbFZMMEt0Z2ZqR2o2RGJ0Y1hCNEZTOHhhMEhDRldaVHVodUdTWDZYWHloY2ZYeFhaNWliWEVTVU1TdFJ4N3VGSGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDc1ODk3CWZpbGU6UkVMRVZPLUdTQ18wLjIuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjgKMk5ycUdXWGpGQ0FmcklKb014bk13WnpKZkgyUzJPa21wNnVGS2YrQmIwWGZpRjU0SFJMbEl5S0tBYnhxUXgrekdDbFJ1WE83dlJTcHlBcXpYZk9wRGc9PQo=", "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.2.8/RELEVO-GSC_0.2.8_x64-setup.exe"}}}
