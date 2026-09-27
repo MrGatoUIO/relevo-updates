@@ -1,11 +1,1 @@
-{
-    "version":  "v0.3.0",
-    "notes":  "Modo sin conexion (solo lectura + cache), separadores de dia en el chat, crear reunion en la app la propaga a Asana, y releases mas rapidos.",
-    "pub_date":  "2026-09-27T03:36:14Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1Rqalp3ZWY5b1AzZnZhb0FXMTM3R1BQRHB0MzZNa2E1OGVnZ1hmdVNFODcxZ3JrNWNUQWZ4RGM4cjZFMFhPNjZyVXVrVUg1U2MxTW9UTXlnaXNhYlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDgwMTcwCWZpbGU6UkVMRVZPLUdTQ18wLjMuMF94NjQtc2V0dXAuZXhlCmE1MktnOXRSOTJnY053SGFjZDhrN216ZThmVkg5MjZ6OXRUa2tQanhGaWdlYUswdU5nMGZZVXpjNDVHV3IrNTJOZUlzdXA4cTc3cG92SnlGVjBqaER3PT0K",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.0/RELEVO-GSC_0.3.0_x64-setup.exe"
-                                         }
-                  }
-}
+{"version": "v0.3.0", "notes": "Modo sin conexion (solo lectura + cache), separadores de dia en el chat, crear reunion en la app la propaga a Asana, y releases mas rapidos.", "pub_date": "2026-09-27T03:20:00Z", "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2V3b2psQ2E0MjMvZDljMjhoVStscEVLOEFoUTZzQk1tVEw3ZWdieXlyWkU3K2pHVUlham9mMnRPZjlxYkpzSEtaSzcyYkxIL1YrZnN1YzA4NWZ2amdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDgwNTYwCWZpbGU6UkVMRVZPLUdTQ18wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKM3hWQWZqL0VCNDhtM0lDUzRiaDZuWVh2T1NzV05JWWFuNG4wZDVTdkZjSFlyZmNNRysxeFF5T2VnMHAyTHlJNUFtb2wweFBLc3o4OHZFTVRWblJvQUE9PQo=", "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.0/RELEVO-GSC_0.3.0_x64-setup.exe"}}}
