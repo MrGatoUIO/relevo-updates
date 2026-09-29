@@ -1,1 +1,11 @@
-{"version": "v0.3.0", "notes": "Modo sin conexion (solo lectura + cache), separadores de dia en el chat, crear reunion en la app la propaga a Asana, y releases mas rapidos.", "pub_date": "2026-09-27T03:20:00Z", "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2V3b2psQ2E0MjMvZDljMjhoVStscEVLOEFoUTZzQk1tVEw3ZWdieXlyWkU3K2pHVUlham9mMnRPZjlxYkpzSEtaSzcyYkxIL1YrZnN1YzA4NWZ2amdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDgwNTYwCWZpbGU6UkVMRVZPLUdTQ18wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKM3hWQWZqL0VCNDhtM0lDUzRiaDZuWVh2T1NzV05JWWFuNG4wZDVTdkZjSFlyZmNNRysxeFF5T2VnMHAyTHlJNUFtb2wweFBLc3o4OHZFTVRWblJvQUE9PQo=", "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.0/RELEVO-GSC_0.3.0_x64-setup.exe"}}}
+{
+    "version":  "v0.3.1",
+    "notes":  "Vistas de detalle para solicitudes y requerimientos, historial persistente de actividad, motivo de bloqueo, edicion de perfil y configuracion por secciones.",
+    "pub_date":  "2026-09-29T16:58:38Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2FoUG9YRExUYXkxTVdISWlTQTJFaGJYQmtPMmpIL09zcUlmUVZpcDc3NFFxVWU3cjNiNjFSV2dnVTlwUWlMUXdVdm5WRXZ2VFE2RzQ2cjF6UXQyT0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzAxMDk0CWZpbGU6UkVMRVZPLUdTQ18wLjMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEKd1FPUnJzZzBybU83NWNJYlo2Qm1QYUphbnc2RFFHay9PTEs3WDl4RlVrZndBaWxCRGhDS0V0ZW1YditQbTJvd1Y4YnlpODR2WGN1RHFmWnlFY1oyQkE9PQo=",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.1/RELEVO-GSC_0.3.1_x64-setup.exe"
+                                         }
+                  }
+}
