@@ -1,11 +1,11 @@
 {
-  "version": "v0.3.7",
-  "notes": "Mejoras chat flotante:\n- Burbuja colapsable y arrastrable nativamente.\n- Sincronizaci\u00f3n de sesi\u00f3n entre ventanas.\n- Ventana flotante sin bordes del sistema.\n- Im\u00e1genes, colores por usuario y vistos en la burbuja.",
-  "pub_date": "2026-10-01T22:36:09Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1Q1c1pmVDMxbi9YVGhJcWxOVVFaSVBiZ2dTR0JEVzFqdzJlaC9FNklXTnl3WFVUWExxcTVNdlF1Z2J1TVdncFRleDhxbVZocGNXSjU2S1AyRUxvRGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODk0MTM3CWZpbGU6UkVMRVZPLUdTQ18wLjMuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjcKaTRNai9uYjBsdlpnWStYb3o5U0c1ODY3d2gvbTBrVy8wdGt3aGJYZjFhS1ZJZHZjTzRkTkE1MFVzQzQ1dU9PbXQxbENHelRPejJTblJyOGxwNGpiQXc9PQo=",
-      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.7/RELEVO-GSC_0.3.7_x64-setup.exe"
-    }
-  }
+    "version":  "v0.3.8",
+    "notes":  "Fix seguridad: solo el autor de un mensaje puede editarlo o eliminarlo.",
+    "pub_date":  "2026-10-01T22:43:12Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2U5anBvOEpLN2djMVczUVpDZTIrQ21NYVNIOTJSa2VVNzZmcytvQk1VRWxWeW9mOWxmSjA3eXpHM0VqVVVuSE41ajhzSGErcXJCRGZyUGppcGpBZUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODk0NTg4CWZpbGU6UkVMRVZPLUdTQ18wLjMuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgKV2hWbzBySDdadUZMOGtXN0U3bU1wTDV1c1lGa1Z6OG9qREdvVDZoRExSVTR4bG1CamQ0QTNpSDRRTDZlQ3RhZERVSmw0QzFXRjJ6dmVYRmNSd2xIQXc9PQo=",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.8/RELEVO-GSC_0.3.8_x64-setup.exe"
+                                         }
+                  }
 }
