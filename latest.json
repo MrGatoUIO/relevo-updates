@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.5",
-    "notes":  "Fix: ventana flotante de chat quedaba en blanco/congelada por detectar el label de ventana al inicio del JS. Ahora se detecta por URL (?float=1) y se redirige cualquier ruta al panel flotante.",
-    "pub_date":  "2026-10-01T20:15:43Z",
+    "version":  "v0.3.6",
+    "notes":  "Fix: panel Usuarios consultaba roles.activo (columna inexistente); ahora lista roles y usuarios correctamente.",
+    "pub_date":  "2026-10-01T20:20:06Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1pMa1dmM3lzREt4RXlWMU95YUYrTW5SemdOUEtiRVNoaTVybTlKS1VMTC9iQlhCMHhOcXFBTDlReUhBTUgvT2hBMXA4M3RvMmFBQzEvajN3VlVMd1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg1NzM4CWZpbGU6UkVMRVZPLUdTQ18wLjMuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUKc0JjWkdXZzhyYmRrWnpMVDBBQ25TQzFob2xQL0hHaDJvL0xidWdSNjVBb3k1UzdkdXNuaEh5S3FMaTh2TTZGNFY1SHlzeFRRdVBiTUJkQytsOUREQ1E9PQo=",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.5/RELEVO-GSC_0.3.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1dHOXg3SWRaMGVZQTFiY0VNWXBuKzNxNktCbkhMcmpYMCs5aG5kVlJBZGNPTUNXSytiZmhFdmViUzhOWHZNTU9aalBrOEM2MlBTOEZCNFlTWHNuaWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg2MDAyCWZpbGU6UkVMRVZPLUdTQ18wLjMuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYKYUxnYzBNTlhuMFV0MFVDVXNBVDdrWm9naDU5OEhtUjBtN08vUnc3NklsM1QrVmQ2cGREQVZLYS9vYkllTWg0eTZqS2N0T1IxMm5iU2kvNS94K2VPRHc9PQo=",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.6/RELEVO-GSC_0.3.6_x64-setup.exe"
                                          }
                   }
 }
