@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.3",
-    "notes":  "Chat: notificaciones llegan con la app en segundo plano aunque el canal este abierto; campana con historial de notificaciones en el header; Esc/X cierra la conversacion; menu lateral colapsable; burbuja de chat flotante para escribir desde cualquier pantalla; indicador \u0027esta escribiendo\u0027 con puntos animados.",
-    "pub_date":  "2026-10-01T17:25:50Z",
+    "version":  "v0.3.4",
+    "notes":  "Chat: editar y eliminar mensajes; ventana flotante pop-out para el chat (siempre encima, sobrevive al cerrar la app principal); panel interno Usuarios (solo admin) para listar y crear usuarios; mejoras varias de notificaciones y UI.",
+    "pub_date":  "2026-10-01T20:00:37Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1RoSjlNSTEzVlV3dmJsZWV6Y0o4QVI0S0lwd0Y1YUxwZlNqcTVyRnNhTzFTb0tIYjFqRUI3Zkd2VXpmR3NvUTR0emZBNU5PV1pZdVA5andHWkdWQ1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc1NTQ2CWZpbGU6UkVMRVZPLUdTQ18wLjMuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMKRUx1OXR2OVhTaFRwdmYwL3lxcHZzbmhDUjBEQ2ZWbU9OL2hTRnBBYmlQUFVnWG9jdmxHTU1rUjNrcjRQc2o2Ym5KUGdUbjlRajlJeWU5Y2Q3VUN4Q1E9PQo=",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.3/RELEVO-GSC_0.3.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1hWM01Cb01SRW9yMzRGVWJHcEc1emNLN3hvcEdCZTNMa2J2YVZRUnVIT01KclZZQ3dVZVNORUNML0ZBWmx1KzZ2K29SVmM5L1pZV3IxMURBV0phaUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg0ODMzCWZpbGU6UkVMRVZPLUdTQ18wLjMuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQKandxY1prK3hjQ1hyaHdlVnVLM1FHNW43TzhHdXpSMmtIajVLMjBKTXBIU2pqRXZVUUJpVkwyM09iT0c5eVBZcXkrdW1Bc2Z1cm8rY2ZndmxtL2IwQWc9PQo=",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.4/RELEVO-GSC_0.3.4_x64-setup.exe"
                                          }
                   }
 }
