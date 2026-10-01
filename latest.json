@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.2",
-    "notes":  "Chat abre instantaneo desde cache (canales, usuarios y mensajes); detalles de solicitud/requerimiento igual. Historial persistente de actividad.",
-    "pub_date":  "2026-09-29T17:08:53Z",
+    "version":  "v0.3.3",
+    "notes":  "Chat: notificaciones llegan con la app en segundo plano aunque el canal este abierto; campana con historial de notificaciones en el header; Esc/X cierra la conversacion; menu lateral colapsable; burbuja de chat flotante para escribir desde cualquier pantalla; indicador \u0027esta escribiendo\u0027 con puntos animados.",
+    "pub_date":  "2026-10-01T17:25:50Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1hPcC82dWV5RnJuNlFFTnRZVWdpS243TFlCejZGamVjbXJNWElqMTdEZzhBdU51WUc5bnd2cUh5NTlUSFl4bXl5WjNNVW5PZGM1anR1T2FuS2VpMUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzAxNzI5CWZpbGU6UkVMRVZPLUdTQ18wLjMuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIKSTVxSHZmZDZma0pBTzZIcG9mdTIrbHgzUXFZZG00NUV0R0V6UDMra2c5ajhOTUZiQWM4dHFKU3hZTy94WkVoUHp4R1Z0bXBtUWpRbzl3QmJHWXpVQ3c9PQo=",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.2/RELEVO-GSC_0.3.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1RoSjlNSTEzVlV3dmJsZWV6Y0o4QVI0S0lwd0Y1YUxwZlNqcTVyRnNhTzFTb0tIYjFqRUI3Zkd2VXpmR3NvUTR0emZBNU5PV1pZdVA5andHWkdWQ1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc1NTQ2CWZpbGU6UkVMRVZPLUdTQ18wLjMuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMKRUx1OXR2OVhTaFRwdmYwL3lxcHZzbmhDUjBEQ2ZWbU9OL2hTRnBBYmlQUFVnWG9jdmxHTU1rUjNrcjRQc2o2Ym5KUGdUbjlRajlJeWU5Y2Q3VUN4Q1E9PQo=",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.3/RELEVO-GSC_0.3.3_x64-setup.exe"
                                          }
                   }
 }
