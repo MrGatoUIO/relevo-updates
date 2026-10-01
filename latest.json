@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.4",
-    "notes":  "Chat: editar y eliminar mensajes; ventana flotante pop-out para el chat (siempre encima, sobrevive al cerrar la app principal); panel interno Usuarios (solo admin) para listar y crear usuarios; mejoras varias de notificaciones y UI.",
-    "pub_date":  "2026-10-01T20:00:37Z",
+    "version":  "v0.3.5",
+    "notes":  "Fix: ventana flotante de chat quedaba en blanco/congelada por detectar el label de ventana al inicio del JS. Ahora se detecta por URL (?float=1) y se redirige cualquier ruta al panel flotante.",
+    "pub_date":  "2026-10-01T20:15:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1hWM01Cb01SRW9yMzRGVWJHcEc1emNLN3hvcEdCZTNMa2J2YVZRUnVIT01KclZZQ3dVZVNORUNML0ZBWmx1KzZ2K29SVmM5L1pZV3IxMURBV0phaUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg0ODMzCWZpbGU6UkVMRVZPLUdTQ18wLjMuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQKandxY1prK3hjQ1hyaHdlVnVLM1FHNW43TzhHdXpSMmtIajVLMjBKTXBIU2pqRXZVUUJpVkwyM09iT0c5eVBZcXkrdW1Bc2Z1cm8rY2ZndmxtL2IwQWc9PQo=",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.4/RELEVO-GSC_0.3.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1pMa1dmM3lzREt4RXlWMU95YUYrTW5SemdOUEtiRVNoaTVybTlKS1VMTC9iQlhCMHhOcXFBTDlReUhBTUgvT2hBMXA4M3RvMmFBQzEvajN3VlVMd1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg1NzM4CWZpbGU6UkVMRVZPLUdTQ18wLjMuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUKc0JjWkdXZzhyYmRrWnpMVDBBQ25TQzFob2xQL0hHaDJvL0xidWdSNjVBb3k1UzdkdXNuaEh5S3FMaTh2TTZGNFY1SHlzeFRRdVBiTUJkQytsOUREQ1E9PQo=",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.5/RELEVO-GSC_0.3.5_x64-setup.exe"
                                          }
                   }
 }
