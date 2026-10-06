@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.9",
-    "notes":  "Chat: fixes file uploads with server fallback, adds older message loading and opens conversations at the newest messages. Adds large emoji stickers and reusable custom stickers in the main and floating chat.",
-    "pub_date":  "2026-10-06T15:28:12Z",
+    "version":  "v0.3.10",
+    "notes":  "Hotfix: regenerates the updater signature for the final installer. Includes chat upload fallback, message history pagination, newest-message positioning, and stickers from v0.3.9.",
+    "pub_date":  "2026-10-06T15:39:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2Q4NUVzOEVEbVhZRHM1RDlTSDg3TU9pWE0zeTk3YWkzVmtaQVErT1ZxeUdaWjdIT0d6VVhCNVVDbkQwNFJ0NUlQdU9MVG9oYm10ZlpXd1lwRFF3RlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzAwMjk1CWZpbGU6UkVMRVZPLUdTQ18wLjMuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjkKSEVjSnVsaUptclZEbzcxYy9ma0FwK012ODdPMGk5U3ZYcUt4L3pGQkJzMzFxcDd3M1NjR3dPY0lseEZzeHpuUVA2TnE0UzJuTHNMZ0d0Z1hvY1pjQmc9PQo=",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.9/RELEVO-GSC_0.3.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2ZpU3hSK1VpN0luZ0U3ZUtTNEVvNXpXVjMycGh3eFd1WEtYZTFVRG5aMUVIa2VRYWdkaU94KzNsQlJpL3FKQ1owNUZralRsWVVSR2ZnR3VFUlB6bVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzAxMTQ3CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xMApjVS9xckpTNDFESmwwN045NGR0WFF4czFiQWk1N1d6R1lXTkZYeHRxY2RVc1E3YmZaendBa1ZqSkhlUjlCV0FTT3Jua3FielUrYzZvRW0weUx6RENCZz09Cg==",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.10/RELEVO-GSC_0.3.10_x64-setup.exe"
                                          }
                   }
 }
