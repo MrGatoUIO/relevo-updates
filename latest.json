@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.11",
-    "notes":  "Cloud storage update: new attachments use Cloudflare R2 with an internal 8 GB limit. Images are compressed before upload, stickers are optimized, and received custom stickers can be saved to the personal catalog. Existing attachments remain compatible.",
-    "pub_date":  "2026-10-06T16:28:53Z",
+    "version":  "v0.3.12",
+    "notes":  "Emergency data-usage fix: chat polling now downloads only messages newer than the last received message, and hidden chat windows stop polling. This sharply reduces PostgreSQL network transfer while the Worker API migration continues.",
+    "pub_date":  "2026-10-06T20:12:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1kxU2c4Z09yUm9oZ3VscVJ0Rm9FTDVKZUdWOWhRU05aUUtJNHE3MXd5Z3NSWmxwM2NxZXh5RFhLTHIvVDJva1pmYjBaVmZ5MjF4Q25HUnYxb3VMWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzA0MTI3CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xMQpHUUtHSTI0T0JCb2VaeUV6UVZkUFFUVVRvbUYwdXIrbm1pTEovVUN0eVFUZnkxU2FlelNBbGZ6ZnhIVGZFTHQvSSszNjRCM2x2c1EycWdoNWw0UHRDUT09Cg==",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.11/RELEVO-GSC_0.3.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1poclRrejlxMFkxa21mQ3V2QWdjSkhENk9DeFJQOVBNLzUyQzg2SE5RNENZUVpBb01qNTZuQk1wTDE4QThRcDlHVUQ3azM4d1ppaHF3SCs1RUU0aGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE3NTQ4CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xMgpQL1JpQ3VYenlwZGV4bU5wUnZwUHVrSnVxbWFFZHRVSjA2Z3ZvaG1jZXBsdk9RbEwwc0ZaanZpSllsaDVVNTIxTW5qcEJ1MlVjRkRqUittbE5GWnhCdz09Cg==",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.12/RELEVO-GSC_0.3.12_x64-setup.exe"
                                          }
                   }
 }
