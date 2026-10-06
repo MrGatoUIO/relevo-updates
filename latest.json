@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.10",
-    "notes":  "Hotfix: regenerates the updater signature for the final installer. Includes chat upload fallback, message history pagination, newest-message positioning, and stickers from v0.3.9.",
-    "pub_date":  "2026-10-06T15:39:14Z",
+    "version":  "v0.3.11",
+    "notes":  "Cloud storage update: new attachments use Cloudflare R2 with an internal 8 GB limit. Images are compressed before upload, stickers are optimized, and received custom stickers can be saved to the personal catalog. Existing attachments remain compatible.",
+    "pub_date":  "2026-10-06T16:28:53Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2ZpU3hSK1VpN0luZ0U3ZUtTNEVvNXpXVjMycGh3eFd1WEtYZTFVRG5aMUVIa2VRYWdkaU94KzNsQlJpL3FKQ1owNUZralRsWVVSR2ZnR3VFUlB6bVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzAxMTQ3CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xMApjVS9xckpTNDFESmwwN045NGR0WFF4czFiQWk1N1d6R1lXTkZYeHRxY2RVc1E3YmZaendBa1ZqSkhlUjlCV0FTT3Jua3FielUrYzZvRW0weUx6RENCZz09Cg==",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.10/RELEVO-GSC_0.3.10_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1kxU2c4Z09yUm9oZ3VscVJ0Rm9FTDVKZUdWOWhRU05aUUtJNHE3MXd5Z3NSWmxwM2NxZXh5RFhLTHIvVDJva1pmYjBaVmZ5MjF4Q25HUnYxb3VMWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzA0MTI3CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xMQpHUUtHSTI0T0JCb2VaeUV6UVZkUFFUVVRvbUYwdXIrbm1pTEovVUN0eVFUZnkxU2FlelNBbGZ6ZnhIVGZFTHQvSSszNjRCM2x2c1EycWdoNWw0UHRDUT09Cg==",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.11/RELEVO-GSC_0.3.11_x64-setup.exe"
                                          }
                   }
 }
