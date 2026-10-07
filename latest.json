@@ -1,11 +1,11 @@
 {
-  "version": "v0.3.13",
-  "notes": "Migración a Worker RPC: backend centralizado en Cloudflare Worker + Hyperdrive, sin acceso directo a PostgreSQL desde el cliente.",
-  "pub_date": "2026-10-07T14:57:41Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1RMTXR3NGlnYjlPZ1FOTlhWY212eWFDblNWdm5XaU50bTNOTmhpY2g5RjNqcDZ5MnFYQWxWclA1bTlkY1lPaDV6Tm1qZUVBRmNPNlZiZ29HQm4rUGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzg1MDEzCWZpbGU6UkVMRVZPLUdTQ18wLjMuMTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xMwpWZUM5VTMrWXp1Y2JYYS8rcGlzeE1lVVR2SVR4WEhxTjZTQkFkZDFXa0ZNa2FwcjdMVzBhVzJNaTZnQUNsUDBNRGVjUXlWVFhDcFgvNDRLbEQrMldDZz09Cg==",
-      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.13/RELEVO-GSC_0.3.13_x64-setup.exe"
-    }
-  }
+    "version":  "v0.3.14",
+    "notes":  "API local en LAN + fallback Cloudflare",
+    "pub_date":  "2026-10-07T22:01:03Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2QrekNsNXJvY3BmUTJNY0RXcDl2aW9YWDBrVTAxdndzb25LcmRJVDJ2VEVkbDNkOVZyUEo4NnpPNnc0cWtjbzA5RnhXMXYvS1E2WVFGb2Ywc2hzcFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDEwNDU4CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xNApJREZHb0MyQjFSTUhDVnRQMjFCcEVvUTh6UDNjZ0ozdkxTN3ZJbXphbXg2YzkybWRmaTZVUm1IQi9hWlNHaW1ldnFoNG1tN09hdmNsRUY3U1VjNmdBZz09Cg==",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.14/RELEVO-GSC_0.3.14_x64-setup.exe"
+                                         }
+                  }
 }
