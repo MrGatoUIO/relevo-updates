@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.15",
-    "notes":  "Descubre servidor local LAN primero; fallback a Cloudflare",
-    "pub_date":  "2026-10-08T16:16:28Z",
+    "version":  "v0.3.16",
+    "notes":  "Fix notificaciones duplicadas, reduce polling y refuerza fallback LAN",
+    "pub_date":  "2026-10-08T16:33:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1VqSk1nSTZkQjBOM1F6MlU3enl5TFRmekVBTmVOK21vZnZpa2lRT0JvZ3ZmeEhqV1BmNkUzcXJkWXFZTlNtRW9OZUp6RldhbFJLUXo4UkdlNFMxcmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2MTgxCWZpbGU6UkVMRVZPLUdTQ18wLjMuMTVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xNQppS1BSWXZ4V3RtRngvQzcyZHFLeVNyMzVSd1B2N1JtU3pLdm1HV1U3MitWWWRwcDZnMVVCTVZMblFDMDRDU1BPWnlYaVV3VEV5L3N2cGVIN3d6cnNCdz09Cg==",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.15/RELEVO-GSC_0.3.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2N4M0JibHRVUmYwVDkrbWdpamQ0K2x0aU1scTFLNUJnRkFwWDlzRXg4Qk90ViszMllmekdwR3k5Z0o5NmM0bzNXNGxZWUxSL0M5WHRwL2xoM2laYUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc3MTkzCWZpbGU6UkVMRVZPLUdTQ18wLjMuMTZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xNgplRTdWbUoyMzNIcmxYMDVrU2hHZXlyNWxiVWpBZnNXSVdSSzcwSTZxWjhWZm5od3FsQlpWcGVlWHJ1bWtPTW1SWjNNcmtCZEQ5alU1b0s3LzdQWllDZz09Cg==",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.16/RELEVO-GSC_0.3.16_x64-setup.exe"
                                          }
                   }
 }
