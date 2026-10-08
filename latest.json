@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.14",
-    "notes":  "API local en LAN + fallback Cloudflare",
-    "pub_date":  "2026-10-07T22:01:03Z",
+    "version":  "v0.3.15",
+    "notes":  "Descubre servidor local LAN primero; fallback a Cloudflare",
+    "pub_date":  "2026-10-08T16:16:28Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2QrekNsNXJvY3BmUTJNY0RXcDl2aW9YWDBrVTAxdndzb25LcmRJVDJ2VEVkbDNkOVZyUEo4NnpPNnc0cWtjbzA5RnhXMXYvS1E2WVFGb2Ywc2hzcFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDEwNDU4CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xNApJREZHb0MyQjFSTUhDVnRQMjFCcEVvUTh6UDNjZ0ozdkxTN3ZJbXphbXg2YzkybWRmaTZVUm1IQi9hWlNHaW1ldnFoNG1tN09hdmNsRUY3U1VjNmdBZz09Cg==",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.14/RELEVO-GSC_0.3.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1VqSk1nSTZkQjBOM1F6MlU3enl5TFRmekVBTmVOK21vZnZpa2lRT0JvZ3ZmeEhqV1BmNkUzcXJkWXFZTlNtRW9OZUp6RldhbFJLUXo4UkdlNFMxcmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2MTgxCWZpbGU6UkVMRVZPLUdTQ18wLjMuMTVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xNQppS1BSWXZ4V3RtRngvQzcyZHFLeVNyMzVSd1B2N1JtU3pLdm1HV1U3MitWWWRwcDZnMVVCTVZMblFDMDRDU1BPWnlYaVV3VEV5L3N2cGVIN3d6cnNCdz09Cg==",
+                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.15/RELEVO-GSC_0.3.15_x64-setup.exe"
                                          }
                   }
 }
