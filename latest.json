@@ -1,11 +1,11 @@
 {
-    "version":  "v0.3.17",
-    "notes":  "API migrada a VPS propio (OVH): HTTPS directo, adjuntos locales, sin Cloudflare en la ruta principal",
-    "pub_date":  "2026-10-13T22:21:23Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1I0SjNNYm9PSysrT2RsR1g2Z2IvcDhOMGQ1cG1lKzBlbFQ2bGRWbVduMloxc28zQjQvZkNlWTdYeXlDVDgxdHlaS1RWTGMvN1RLL2YzVndnLy84eUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTMwMDc4CWZpbGU6UkVMRVZPLUdTQ18wLjMuMTdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xNwpLSmZpSWxhNG5YSVBoYVNhTjdjRDhFWVhrcjA3SlE1QzFrcVM0R3ZsRHJyVnI2TjhqMlo2NW91djhncGpUeVdvVmtOYjZZV090emZMV3JPeVNuMXNCQT09Cg==",
-                                             "url":  "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.17/RELEVO-GSC_0.3.17_x64-setup.exe"
-                                         }
-                  }
+  "version": "0.3.18",
+  "pub_date": "2026-10-14T14:55:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.18/RELEVO-GSC_0.3.18_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL1EwenJmcXN2VGRTUTQ5MWx2YVh4cCtsQjVHSyt2OGk4YUJtLzdPQVRtZWhSdEc3TU1DTW1CZGNpOHdUc253RWFMUStaVmU1NjBUa2gzeXFaYjZ6a3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTg5NzI0CWZpbGU6UkVMRVZPLUdTQ18wLjMuMThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xOApObjVmRXY3bzhMV1A2TG1XdWtPT3NaaTlYay9vNkx1bXhhSVBYOExaRnI1OFp6ZXV4S3NkeThPelZ6QjRqTlhkVC9CSGtjVDU0bVVFRnhpakNIRlBCdz09Cg=="
+    }
+  },
+  "notes": "Release v0.3.18"
 }
