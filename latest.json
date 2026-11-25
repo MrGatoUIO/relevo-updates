@@ -1,11 +1,11 @@
 {
+  "notes": "Release v0.3.25",
+  "version": "0.3.25",
+  "pub_date": "2026-11-25T15:30:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2FIWGNYY0d2WHgrOVR6WVBZL21QbnhWaFp4bkpRd0ZzZ1hCSlU4REJkVG54L0tYUGM3SG0yWWlTUVo5elRWTVArNVZ2L3VRSCtNYm5obkFXb05kK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4MzIyCWZpbGU6UkVMRVZPLUdTQ18wLjMuMjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4yNApRZEphY3c5Sk43YjMxVXFRWGpJejRkakJKSXhRNzU0cUh3bGozeTRTclBFa0VjN3ZnV1ZqQjdwdEpIWkVBTWRBV0xnSjQvWDlPK0ZyczB4VUtSVTFDQT09Cg==",
-      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.24/RELEVO-GSC_0.3.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaDNaSVh2SW5XL2NvZ2RPaFJvbko1dDFqWU9jUUJ5WmlOQXUrM2VyV0t6U3lXWFdGNlZweC96T0NVbWxEZ0Z4MGFBZnkzbmFPT2R5TzI1Y2VhUUNuQWszUkFWYWgvb2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIwNjI1CWZpbGU6UkVMRVZPLUdTQ18wLjMuMjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4yNQowSFQ0Vm5GbVRMRzdaWUlJZkJkS1YyMkR2UzFXN1lRdUJXdTFQd0owZFJxaHpjQ3ZUR2hCcElVQkdCN0lJOUtOV25GMVIxQjAvVXhrS3lZOFhvc1BDUT09Cg==",
+      "url": "https://github.com/MrGatoUIO/relevo-updates/releases/download/v0.3.25/RELEVO-GSC_0.3.25_x64-setup.exe"
     }
-  },
-  "pub_date": "2026-11-16T19:45:23Z",
-  "version": "0.3.24",
-  "notes": "Release v0.3.24"
+  }
 }
